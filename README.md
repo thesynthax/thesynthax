@@ -24,7 +24,7 @@ Connect with me through the links below to have a chat about Tech :)
 | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-092E20?style=for-the-badge&logo=docker&logoColor=white)  ![Shell](https://img.shields.io/badge/-Shell-black?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 
 ## My GitHub stats:
-[![Kushagra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thesynthax&theme=react-dark)](https://github.com/thesynthax/github-readme-activity-graph)
+[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thesynthax&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesynthax&show_icons=true&locale=en&layout=compact&theme=city_lights" alt="thesynthax" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesynthax&show_icons=true&locale=en&theme=city_lights" alt="thesynthax" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesynthax&theme=city-lights" alt="thesynthax" /></p>
