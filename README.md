@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! Kushagra Srivastava aka TheSynthax here</h1>
+<h1 align="center">Hello, World! Kushagra (thesynthax) Srivastava here</h1>
 <h2 align="center">A 21 Y/O passionate about Programming, Music and Technology. </h3>
 <!--
 - My name is Kushagra Srivastava. I am an undergraduate at IIT Kharagpur who likes to experiment with new stuff. 
