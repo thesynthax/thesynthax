@@ -1,16 +1,17 @@
 <h1 align="center">Hello, World! Kushagra Srivastava aka TheSynthax here</h1>
 <h2 align="center">A 21 Y/O passionate about Programming, Music and Technology. </h3>
-<h4 align="center">
-My name is Kushagra Srivastava. I am an undergraduate at IIT Kharagpur who likes to experiment with new stuff. <br>
-I aspire to become proficient in various languages for Full-stack, App and Game Development. <br>
-A bit of interest in Machine Learning and Neural Algorithms, I am building a graph based WebApp and a game called Overvault as a side project. <br>
-Connect with me through the links below to have a chat about Tech :)
-</h4>
-
+<!--
+- My name is Kushagra Srivastava. I am an undergraduate at IIT Kharagpur who likes to experiment with new stuff. 
+- I aspire to become proficient in various languages for Full-stack, App and Game Development.
+- A bit of interest in Machine Learning and Neural Algorithms, I am building a graph based WebApp and a game called Overvault as a side project. 
+- Connect with me through the links below to have a chat about Tech :)
+-->
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesynthax&label=Profile%20views&color=0e75b6&style=flat" alt="thesynthax" /> </p>
 -->
+
+<br>
 
 ## Languages and Technologies:
 | Front-end Languages/Frameworks | Back-end Languages/Frameworks |
