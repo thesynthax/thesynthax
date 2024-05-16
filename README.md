@@ -11,8 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesynthax&label=Profile%20views&color=0e75b6&style=flat" alt="thesynthax" /> </p>
 -->
 
-<br>
-
 ## Languages and Technologies:
 | Front-end Languages/Frameworks | Back-end Languages/Frameworks |
 | :--- | ---: |
