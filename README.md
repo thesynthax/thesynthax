@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">My name is Kushagra Srivastava. I'm a Final Year UG @ IITKGP.<br><br>- I like all domains of tech (except front-end dev cuz cringe) <br>- From systems programming to gamedev, from cybersecurity to devops, from back-end to graphics. <br>- Currently working as a GSoC'25 Contributor @ FreeBSD, improving the mac_do(4) kernel module.<br>- I like to merge technology with creative arts like music and visual aesthetics</p>
+<p align="left">My name is Kushagra Srivastava. I'm a Software Engineer, recently graduated from IITKGP.<br><br>- I like all domains of tech (except front-end dev cuz cringe) <br>- From systems programming to gamedev, from cybersecurity to devops, from back-end to graphics. <br>- Currently working as a Software Engineer @Canonical in the Launchpad team.<br>- I like to merge technology with creative arts like music and visual aesthetics</p>
 
 ###
 
